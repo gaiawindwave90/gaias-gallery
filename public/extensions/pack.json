@@ -29,7 +29,7 @@
       "slug": "code/measurementFormat",
       "id": "measurementFormat",
       "name": "Measurement Format",
-      "description": "Convert & format units.",
+      "description": "Convert and format units.",
       "image": "thumbnail/measurementFormat.svg"
     },
     {
@@ -72,8 +72,7 @@
       "id": "posenet2scratch",
       "name": "Posenet2Scratch",
       "description": "Detect human poses fast using a webcam.",
-      "image": "thumbnail/posenet2scratch.png",
-      "author": "champierre"
+      "image": "thumbnail/posenet2scratch.png"
     },
     {
       "slug": "code/facemesh2scratch",
