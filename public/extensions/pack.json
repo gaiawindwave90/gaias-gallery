@@ -79,8 +79,7 @@
       "id": "facemesh2scratch",
       "name": "Facemesh2Scratch",
       "description": "Get human faces as meshes using a webcam.",
-      "image": "thumbnail/facemesh2scratch.png",
-      "author": "champierre"
+      "image": "thumbnail/facemesh2scratch.png"
     }
   ]
 }
